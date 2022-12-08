@@ -1,4 +1,4 @@
-# WorldEnvironmentManager - Version 0.1
+# WorldEnvironmentManager - Version 0.2
 
 for tweening between multiple WorldEnvironment nodes in Godot 3.x
 
