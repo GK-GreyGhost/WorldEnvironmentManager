@@ -7,3 +7,6 @@ func _on_WorldEnvironmentArea_body_entered(body):
 
 func _on_WorldEnvironmentArea_body_exited(body):
 	WorldEnvironmentManager.environment = 0
+
+func _ready():
+	visible = false

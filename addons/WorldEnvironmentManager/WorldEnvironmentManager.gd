@@ -5,7 +5,7 @@ tool
 #eg default, desert, forest, castle, cave
 enum Environments {default, default2,default3,default4}
 
-export(Environments) var environment:int = Environments.the_void setget set_environment
+export(Environments) var environment:int = Environments.default setget set_environment
 
 enum TransitionType{TRANS_LINEAR,TRANS_SINE,TRANS_QUINT,TRANS_QUART,TRANS_QUAD,TRANS_EXPO,TRANS_ELASTIC,TRANS_CUBIC,TRANS_CIRC,TRANS_BOUNCE,TRANS_BACK}
 enum EaseType{EASE_IN,EASE_OUT,EASE_IN_OUT,EASE_OUT_IN}
