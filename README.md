@@ -4,7 +4,7 @@ for tweening between multiple WorldEnvironment nodes in Godot 3.x
 
 ### How to use
 
-- Enable WorldEnvironmentManager addon,
+- Enable WorldEnvironmentManager plugin,
 - setup Environments enum to the titles of your environments
 - add environments to environments array
 - add WorldEnvironmentArea to your level, set the collision layer (default layer 15) of the volume to that of what you want to trigger the transition (e.g. the player, a camera, etc)
