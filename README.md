@@ -15,3 +15,7 @@ when an actor leaves the volume it will default back to the environment in the f
   1. nested environments
   
 please feel free to file an issue with bug reports or feature requests, I do want to keep this addon on the smaller side but am open to new ideas :)
+
+
+https://user-images.githubusercontent.com/1384496/206576364-1218c8bf-428e-479e-8ac5-309706a03e0c.mp4
+
